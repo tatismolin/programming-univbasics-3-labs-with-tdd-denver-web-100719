@@ -1,5 +1,5 @@
-first_number =
-second_number =
+first_number = x
+second_number = y
 sum = first_number + second_number
 difference = first_number - second_number
 product = first_number * second_number
